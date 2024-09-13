@@ -9,16 +9,13 @@
     "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
     "test:verbose": "jest --passWithNoTests --runInBand"
   },
-  "author": "ME:)",
+  "author": "ME",
   "license": "ISC",
   "dependencies": {
-dependabot/npm_and_yarn/multi-fa149f3738
     "body-parser": "^1.19.0",
     "json-server": "^1.0.0-beta.2",
     "express": "^4.17.1",
-    "mongoose": "^5.10.0"
-
- main
+    "mongoose": "^5.10.0",
     "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
